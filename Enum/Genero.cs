@@ -1,4 +1,4 @@
-namespace DIO.Series
+namespace DecolaTech
 {
 	public enum Genero
 	{

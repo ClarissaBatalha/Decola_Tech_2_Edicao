@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using DIO.Series.Interfaces;
+using DecolaTech.Interfaces;
 
-namespace DIO.Series
+namespace DecolaTech
 {
 	public class SerieRepositorio : IRepositorio<Serie>
 	{

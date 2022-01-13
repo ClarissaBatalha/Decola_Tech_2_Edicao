@@ -1,6 +1,6 @@
 using System;
 
-namespace DIO.Series
+namespace DecolaTech
 {
     public class Serie : EntidadeBase
     {
